@@ -1,0 +1,62 @@
+﻿TabShots - Privacy Policy
+============================================
+(Replace the parts in 【】 before publishing)
+
+This policy describes how the Microsoft Edge extension "TabShots - Full-Page Screenshots of All Tabs"
+(the "Extension") handles user information.
+
+Provider: 【Tomohito Nakano】
+Contact: 【rererex0311@gmail.com】
+Effective date: 【11 1, 2026】
+
+1. Information handled
+To capture pages, the Extension handles the following information inside the user's Microsoft Edge:
+・Titles and URLs of open tabs
+・The content displayed on the pages being captured
+・URLs of screens shown inside frames (iframes) (when saving tab lists)
+・Settings entered by the user, such as the save name, building, inspector, memo and words to exclude
+・When per-site settings or building names are used, the host name of the site (e.g. 192.168.1.10) and the remembered building name
+・When scheduled capture is used, the schedules (time or interval, and which tabs or saved tab list to capture; for schedules that capture the open tabs, the host names of the sites in the window where the schedule was added)
+
+2. Purpose of use
+This information is used only for the Extension's features when the user operates it: choosing the tabs to capture,
+capturing pages, recording the capture time, address and the building, inspector and memo entered by the user on
+the captured images, and saving and reopening tab lists.
+
+3. Where information is stored
+・Captured images, PDFs, Excel files and capture lists (CSV) are saved in the Downloads folder of the user's computer.
+・Settings, saved tab lists, the history of save names, and the last capture result are stored only inside the
+  user's Microsoft Edge (extension data).
+・When "collect captures and make one PDF later" is used, the captured images are kept inside the browser
+  (extension data) until the PDF is made. They are deleted when the PDF is made.
+・For "Copy image", only the last captured image is kept inside the browser (extension data). It is replaced by the
+  next capture. It is copied to the clipboard only when the user presses a copy button.
+・For "Recent", the results of the last 10 captures (page titles, capture times and saved file names), a small
+  image and the last captured image of each are kept inside the browser (extension data). Older ones are deleted
+  from the 11th capture on, and they can be deleted at any time in "Recent" in the same screen.
+
+4. Transmission to outside parties
+The Extension does not send any data, including the information above, to anyone, including the provider.
+It does not perform analytics, advertising or usage collection. Because the provider does not obtain user
+information, it is not provided or sold to third parties.
+
+5. How users can check and delete information
+・Settings: check and change them in the screen opened by clicking the Extension's icon. "Reset to defaults" resets them.
+・Per-site settings: "Settings for this site" in the same screen ("Reset to defaults" does not delete them).
+・Per-site building names: "Building / Inspector / Memo" in the same screen.
+・Scheduled captures: the "Scheduled" tab in the same screen (pause or delete).
+・Saved tab lists: "Saved tabs" in the same screen (check, delete, export).
+・Captured files: check and delete them in the Downloads folder like any other file.
+・Collected images for the PDF: "Delete collected images" in the popup.
+・When the Extension is removed from Microsoft Edge, all settings and tab lists stored in Microsoft Edge are deleted.
+
+6. Permissions
+The Extension uses the debugger feature of Microsoft Edge to capture the part of the page that requires scrolling.
+It connects only to the tabs being captured, only while the user is capturing, and disconnects afterwards.
+The capture buttons shown on pages are only for showing the buttons and do not read the page content or input.
+The Extension uses a hidden offscreen document only while saving, to prepare files for saving. It does not read page content and sends nothing anywhere.
+The Extension uses the alarm feature of Microsoft Edge for scheduled capture, only to start captures at the times the
+user has set.
+
+7. Changes
+If this policy is changed, the new version will be published on this page.
