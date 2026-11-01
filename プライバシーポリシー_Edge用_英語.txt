@@ -6,7 +6,7 @@ This policy describes how the Microsoft Edge extension "TabShots - Full-Page Scr
 
 Provider: Tomohito Nakano
 Contact: rererex0311@gmail.com
-Effective date: 11 1, 2026
+Effective date: November 1, 2026
 
 1. Information handled
 To capture pages, the Extension handles the following information inside the user's Microsoft Edge:
