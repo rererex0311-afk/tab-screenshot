@@ -1,6 +1,5 @@
 ﻿TabShots - Privacy Policy
 ============================================
-(Replace the parts in 【】 before publishing)
 
 This policy describes how the Microsoft Edge extension "TabShots - Full-Page Screenshots of All Tabs"
 (the "Extension") handles user information.
