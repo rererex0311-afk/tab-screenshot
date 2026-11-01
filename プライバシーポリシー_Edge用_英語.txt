@@ -4,9 +4,9 @@
 This policy describes how the Microsoft Edge extension "TabShots - Full-Page Screenshots of All Tabs"
 (the "Extension") handles user information.
 
-Provider: 【Tomohito Nakano】
-Contact: 【rererex0311@gmail.com】
-Effective date: 【11 1, 2026】
+Provider: Tomohito Nakano
+Contact: rererex0311@gmail.com
+Effective date: 11 1, 2026
 
 1. Information handled
 To capture pages, the Extension handles the following information inside the user's Microsoft Edge:
